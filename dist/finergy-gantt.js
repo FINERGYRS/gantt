@@ -1964,4 +1964,4 @@ var Gantt = (function () {
     return Gantt;
 
 })();
-//# sourceMappingURL=finergyrs-gantt.js.map
+//# sourceMappingURL=finergy-gantt.js.map

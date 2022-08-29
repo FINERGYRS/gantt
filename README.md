@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/finergyrs/design/blob/master/logos/logo-2019/finergyrs-gantt-logo.png" height="128">
+    <img src="https://github.com/finergyrs/design/blob/master/logos/logo-2019/finergy-gantt-logo.png" height="128">
     <h2>finergyrs Gantt</h2>
     <p align="center">
         <p>A simple, interactive, modern gantt chart library for the web</p>
@@ -17,14 +17,14 @@
 
 ### Install
 ```
-npm install finergyrs-gantt
+npm install finergy-gantt
 ```
 
 ### Usage
 Include it in your HTML:
 ```
-<script src="finergyrs-gantt.min.js"></script>
-<link rel="stylesheet" href="finergyrs-gantt.css">
+<script src="finergy-gantt.min.js"></script>
+<link rel="stylesheet" href="finergy-gantt.css">
 ```
 
 And start hacking:
